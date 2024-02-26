@@ -1,0 +1,6 @@
+[submodule "naamapi"]
+	path = naamapi
+	url = https://github.com/relicode/naamapi
+[submodule "naamapp"]
+	path = naamapp
+	url = https://github.com/relicode/naamapp
